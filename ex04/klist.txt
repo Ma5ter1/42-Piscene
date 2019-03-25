@@ -1,0 +1,14 @@
+Credentials cache: API:53171
+        Principal: tdouglas@42.US.ORG
+
+  Issued                Expires               Principal
+Mar 25 13:28:31 2019  Mar 25 23:28:31 2019  krbtgt/42.US.ORG@42.US.ORG
+
+
+Credentials cache: API:53171
+        Principal: tdouglas@42.US.ORG
+
+  Issued                Expires               Principal
+Mar 25 13:33:05 2019  Mar 25 23:33:05 2019  krbtgt/42.US.ORG@42.US.ORG
+
+
